@@ -1,0 +1,15 @@
+{
+  "repository": "module-browser-game-social-nextjs",
+  "capabilityKey": "liberusoftware/module-browser-game-social",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-browser-game-social-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/browser-game/nextjs/social.md",
+  "presentationPlan": "projects/browser-game/nextjs/social.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "browser-game"
+  ]
+}
